@@ -45,7 +45,7 @@ const ContactForm: React.FC = () => {
 
             <div className="mt-12 pt-8 border-t border-white/10">
               <p className="text-slate-400 text-sm font-bold tracking-widest uppercase">
-                Atendendo Florianópolis e Região | (48) 99603-4285
+                Atendendo Criciúma é região | (48) 99603-4285
               </p>
             </div>
           </div>
