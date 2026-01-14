@@ -27,7 +27,7 @@ const Footer: React.FC = () => {
               <li>Sábado: 08h às 12h</li>
               <li className="mt-4 pt-4 border-t border-slate-800">
                 <span className="block text-white font-black mb-1">Área de Cobertura:</span>
-                Florianópolis e Região Metropolitana.
+                Criciúma é região.
               </li>
             </ul>
           </div>
