@@ -32,6 +32,12 @@
   }
 }
 </script>
+<script>
+  // Esse código procura qualquer texto "Florianópolis" e troca por "Criciúma" assim que o site carrega
+  window.addEventListener('load', function() {
+    document.body.innerHTML = document.body.innerHTML.replace(/Florianópolis/g, 'Criciúma');
+  });
+</script>
   <script type="module" crossorigin src="/assets/index-Dfr88fsT.js"></script>
     <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
