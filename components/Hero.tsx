@@ -18,7 +18,7 @@ const Hero: React.FC = () => {
             Instalação e Manutenção de Ar-Condicionado E Eletrica com<span className="text-yellow-400 font-black">Excelência Rocha</span>
           </h1>
           <p className="text-lg md:text-xl text-slate-300 mb-8 max-w-xl">
-            A Eletro Rocha garante o clima perfeito para sua casa ou empresa, Trabalhamos tambem com Eletrica. Técnicos certificados, atendimento imediato e preço justo em toda Santa Catarina.
+            A Eletro Rocha garante o clima perfeito para sua casa ou empresa, Trabalhamos tambem com Eletrica residencial ou empresarial. Técnicos certificados, atendimento imediato e preço justo em toda Santa Catarina.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 mb-10">
